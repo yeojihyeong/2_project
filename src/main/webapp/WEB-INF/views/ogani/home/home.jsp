@@ -8,7 +8,6 @@
 </head>
 <body>
 <div> 
-아무거나..
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
